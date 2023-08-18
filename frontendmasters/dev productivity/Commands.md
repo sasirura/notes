@@ -5,14 +5,14 @@
 
 When you see `C-*` C = ctrl, * = any key. So the previous example is Control + d.
 
-```text
+```shell
 tmux list-sessions
 
 # If you got excited
 tmux kill-server
 ```
 
-```text
+```shell
 tmux a
 tmux attach
 ```
@@ -21,7 +21,7 @@ Prefix Key
 
 - The key combo you press (default `C-b`).
 
-```text
+```shell
 tmux new-session -d
 ```
 
