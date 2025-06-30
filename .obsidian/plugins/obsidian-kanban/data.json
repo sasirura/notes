@@ -1,0 +1,15 @@
+{
+  "tag-colors": [
+    {
+      "tagKey": "#new-yorker",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ],
+  "tag-sort": [
+    {
+      "tag": "#new-yorker"
+    }
+  ],
+  "move-tags": true
+}

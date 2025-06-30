@@ -11,10 +11,20 @@
             "id": "eaa203ffc291668a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Email kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Email kanban"
             }
           }
         ]
@@ -160,11 +170,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "c14d5d43cb3c1496",
   "lastOpenFiles": [
+    "Kanban/New yorker - classic.md",
+    "Kanban/Email kanban.md",
+    "Kanban",
+    "Kanban/New yorker - science.md",
+    "Kanban/New yorker - science @{2025-06-30}.md",
+    "Kanban/Update products on Asgiri mills.md",
+    "Kanban/New yorker - email.md",
     "Test/Test.md",
     "Test"
   ]
